@@ -1,4 +1,4 @@
-# Sistema web Kaits - Frontend
+# Sistema Web Kaits - Frontend
 
 Aplicación web moderna para la gestión de pedidos, productos y clientes, desarrollada con React + TypeScript + Vite y Tailwind CSS.
 
