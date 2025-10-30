@@ -1,4 +1,4 @@
-# Sistema de Gestión de Pedidos - Frontend
+# Sistema web Kaits - Frontend
 
 Aplicación web moderna para la gestión de pedidos, productos y clientes, desarrollada con React + TypeScript + Vite y Tailwind CSS.
 
